@@ -1,3 +1,4 @@
+# Virtual Environment
 venv/
 env/
 
@@ -5,6 +6,7 @@ env/
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
+
 # OS Files
 .DS_Store
 Thumbs.db
