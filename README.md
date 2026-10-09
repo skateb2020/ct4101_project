@@ -4,8 +4,7 @@
   - **License:** CC0: Public Domain
   - **Citation:** Zayn1999. (2026, July). Basketball Movement Biomechanics Dataset:
 Biomechanical Data for Basketball Performance, Version 1. Retrieved 28 September
-2026 from [https://www.kaggle.com/datasets/zayn1999/basketball-movement-
-biomechanics-dataset](https://www.kaggle.com/datasets/zayn1999/basketball-movement-biomechanics-dataset).
+2026 from [https://www.kaggle.com/datasets/zayn1999/basketball-movement-biomechanics-dataset](https://www.kaggle.com/datasets/zayn1999/basketball-movement-biomechanics-dataset).
 
 ## Model Goal
   - **Regression Question:** Given a player's joint angles, velocities, and stability metrics, what is
