@@ -44,3 +44,5 @@ pip install -r requirements.txt
 ```
 jupyter lab
 ```
+## Assistance Declaration
+I used AI as a learning and debugging tool to help me understand how to preprocess my data and create the baseline model by asking it to explain code examples from lecture slides, documentation, and key concepts.
